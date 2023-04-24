@@ -1,0 +1,8 @@
+jupyter==1.0.0
+pandas==1.5.3
+plotly
+tqdm
+gravis
+networkx
+scikit-learn
+matplotlib
